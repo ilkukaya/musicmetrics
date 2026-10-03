@@ -1,0 +1,14 @@
+{
+"id": "youtube_mt",
+"platform": "youtube",
+"type": "videos",
+"country": "mt",
+"updated": "2026-10-03T18:33:36.862Z",
+"total": 4,
+"items": [
+{"rank":1,"title":"GHOSTFACE KILLAH","artist":"Sidhu Moose Wala","key":"sidhu-moose-wala--ghostface-killah","artists":[{"n":"Sidhu Moose Wala","s":"sidhu-moose-wala","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/Pq7UxbWeRU0/mqdefault.jpg","url":"https://www.youtube.com/watch?v=Pq7UxbWeRU0","change":0,"peak":1,"days":4,"video_id":"Pq7UxbWeRU0","views":22944161,"views_day":539633,"song":"sidhu-moose-wala-ghostface-killah","sl":true},
+{"rank":2,"title":"Ashke Karan Aujla","artist":"Karan Aujla","key":"karan-aujla--ashke-karan-aujla","artists":[{"n":"Karan Aujla","s":"karan-aujla","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/Pd1yGW_g2T8/mqdefault.jpg","url":"https://www.youtube.com/watch?v=Pd1yGW_g2T8","change":0,"peak":2,"days":4,"video_id":"Pd1yGW_g2T8","views":20364498,"views_day":1213634,"song":"karan-aujla-ashke-karan-aujla","sl":true},
+{"rank":3,"title":"Casa Tupka Anthemo","artist":"Yo Yo Honey Singh","key":"yo-yo-honey-singh--casa-tupka-anthemo","artists":[{"n":"Yo Yo Honey Singh","s":"yo-yo-honey-singh","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/vRjaGgDsWSo/mqdefault.jpg","url":"https://www.youtube.com/watch?v=vRjaGgDsWSo","change":0,"peak":3,"days":4,"video_id":"vRjaGgDsWSo","views":83152274,"views_day":3437885,"song":"yo-yo-honey-singh-casa-tupka-anthemo","sl":true},
+{"rank":4,"title":"Yeshanagula","artist":"The Paradise","key":"the-paradise--yeshanagula","artists":[{"n":"The Paradise","s":"the-paradise","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/JqFzhcWo3EU/mqdefault.jpg","url":"https://www.youtube.com/watch?v=JqFzhcWo3EU","change":0,"peak":4,"days":4,"video_id":"JqFzhcWo3EU","views":163040115,"views_day":2971177,"song":"the-paradise-yeshanagula","sl":false}
+]
+}

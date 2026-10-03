@@ -1,0 +1,17 @@
+{
+"id": "youtube_ee",
+"platform": "youtube",
+"type": "videos",
+"country": "ee",
+"updated": "2026-10-03T18:33:35.648Z",
+"total": 7,
+"items": [
+{"rank":1,"title":"teineteiseta","artist":"Karl-Erik Taukar, An-Marlen","key":"karl-erik-taukar--teineteiseta","artists":[{"n":"Karl-Erik Taukar","s":"karl-erik-taukar","page":true,"loc":true},{"n":"An-Marlen","s":"an-marlen","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/H9ipJejxZ6s/mqdefault.jpg","url":"https://www.youtube.com/watch?v=H9ipJejxZ6s","change":0,"peak":1,"days":7,"video_id":"H9ipJejxZ6s","views":181015,"views_day":2908,"song":"karl-erik-taukar-teineteiseta","sl":true},
+{"rank":2,"title":"Kätu","artist":"Kermo Murel","key":"kermo-murel--katu","artists":[{"n":"Kermo Murel","s":"kermo-murel","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/XeBRvNaLhC4/mqdefault.jpg","url":"https://www.youtube.com/watch?v=XeBRvNaLhC4","change":0,"peak":2,"days":7,"video_id":"XeBRvNaLhC4","views":31561,"views_day":1612,"song":"kermo-murel-katu","sl":true},
+{"rank":3,"title":"Võtan pool","artist":"Starboy Bob x dener","key":"starboy-bob--votan-pool","artists":[{"n":"Starboy Bob","s":"starboy-bob","page":true,"loc":true},{"n":"dener","s":"dener","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/6v7_IvAcW7Q/mqdefault.jpg","url":"https://www.youtube.com/watch?v=6v7_IvAcW7Q","change":0,"peak":3,"days":7,"video_id":"6v7_IvAcW7Q","views":33169,"views_day":1915,"song":"starboy-bob-votan-pool","sl":true},
+{"rank":4,"title":"10 PITSI","artist":"3VIGA","key":"3viga--10-pitsi","artists":[{"n":"3VIGA","s":"3viga","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/nw7zPWjaXkQ/mqdefault.jpg","url":"https://www.youtube.com/watch?v=nw7zPWjaXkQ","change":1,"peak":4,"days":2,"video_id":"nw7zPWjaXkQ","views":5434,"views_day":2135,"song":"3viga-10-pitsi","sl":false},
+{"rank":5,"title":"Бременские Музыканты (неофициальное видео, помогите получить права)","artist":"MORGENSHTERN","key":"morgenshtern--бременские-музыканты","artists":[{"n":"MORGENSHTERN","s":"morgenshtern","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/_9xA9FHG1DI/mqdefault.jpg","url":"https://www.youtube.com/watch?v=_9xA9FHG1DI","change":-1,"peak":4,"days":2,"video_id":"_9xA9FHG1DI","views":1717555,"views_day":288606,"song":"morgenshtern-бременские-музыканты","sl":true},
+{"rank":6,"title":"Movin' to the Sun (Soul Edition)","artist":"Simo Sent","key":"simo-sent--movin-to-the-sun","artists":[{"n":"Simo Sent","s":"simo-sent","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/WPgaEjyMYt4/mqdefault.jpg","url":"https://www.youtube.com/watch?v=WPgaEjyMYt4","change":1,"peak":5,"days":7,"video_id":"WPgaEjyMYt4","views":3151839,"views_day":33504,"song":"simo-sent-movin-to-the-sun","sl":false},
+{"rank":7,"title":"Stereo Love (Sadrican 2026 Remix)","artist":"Edward Maya","key":"edward-maya--stereo-love","artists":[{"n":"Edward Maya","s":"edward-maya","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/s5IIWKZr_2w/mqdefault.jpg","url":"https://www.youtube.com/watch?v=s5IIWKZr_2w","change":1,"peak":6,"days":7,"video_id":"s5IIWKZr_2w","views":7864736,"views_day":150656,"song":"edward-maya-stereo-love","sl":false}
+]
+}

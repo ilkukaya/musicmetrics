@@ -1,0 +1,14 @@
+{
+"id": "youtube_lu",
+"platform": "youtube",
+"type": "videos",
+"country": "lu",
+"updated": "2026-10-03T18:33:35.728Z",
+"total": 4,
+"items": [
+{"rank":1,"title":"Isaltino","artist":"Plutonio","key":"plutonio--isaltino","artists":[{"n":"Plutonio","s":"plutonio","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/hOyTh_cohzU/mqdefault.jpg","url":"https://www.youtube.com/watch?v=hOyTh_cohzU","change":0,"peak":1,"days":2,"video_id":"hOyTh_cohzU","views":294599,"views_day":269821,"song":"plutonio-isaltino","sl":true},
+{"rank":2,"title":"WOKE","artist":"Sido","key":"sido--woke","artists":[{"n":"Sido","s":"sido","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/8Gj-lTSlPOg/mqdefault.jpg","url":"https://www.youtube.com/watch?v=8Gj-lTSlPOg","change":0,"peak":1,"days":7,"video_id":"8Gj-lTSlPOg","views":1593661,"views_day":22018,"song":"sido-woke","sl":true},
+{"rank":3,"title":"Saifond Welaylan Feat Ak ( Clip Officiel By Mintigui Prod","artist":"SAIFOND","key":"saifond--saifond-welaylan","artists":[{"n":"SAIFOND","s":"saifond","page":true,"loc":true},{"n":"Ak ( Clip Officiel By Mintigui Prod","s":"ak-clip-officiel-by-mintigui-prod","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/6M8MfRdGJc0/mqdefault.jpg","url":"https://www.youtube.com/watch?v=6M8MfRdGJc0","change":0,"peak":2,"days":7,"video_id":"6M8MfRdGJc0","views":2373040,"views_day":48865,"song":"saifond-saifond-welaylan","sl":true},
+{"rank":4,"title":"Saifond Kali Feat Djelykaba Bintou (clip Officiel By Mintigui Prod","artist":"SAIFOND","key":"saifond--saifond-kali","artists":[{"n":"SAIFOND","s":"saifond","page":true,"loc":true},{"n":"Djelykaba Bintou (clip Officiel By Mintigui Prod","s":"djelykaba-bintou-clip-officiel-by-mintigui-prod","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/la5oNC_DbQ8/mqdefault.jpg","url":"https://www.youtube.com/watch?v=la5oNC_DbQ8","change":0,"peak":3,"days":7,"video_id":"la5oNC_DbQ8","views":5519307,"views_day":101652,"song":"saifond-saifond-kali","sl":false}
+]
+}

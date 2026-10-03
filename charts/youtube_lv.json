@@ -1,0 +1,17 @@
+{
+"id": "youtube_lv",
+"platform": "youtube",
+"type": "videos",
+"country": "lv",
+"updated": "2026-10-03T18:33:35.663Z",
+"total": 7,
+"items": [
+{"rank":1,"title":"Cilvēki domā, Dievs dara","artist":"Edvards Strazdiņš","key":"edvards-strazdins--cilveki-doma-dievs-dara","artists":[{"n":"Edvards Strazdiņš","s":"edvards-strazdins","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/RHhlvK_NDCU/mqdefault.jpg","url":"https://www.youtube.com/watch?v=RHhlvK_NDCU","change":0,"peak":1,"days":7,"video_id":"RHhlvK_NDCU","views":51004,"views_day":1218,"song":"edvards-strazdins-cilveki-doma-dievs-dara","sl":true},
+{"rank":2,"title":"Бременские Музыканты (неофициальное видео, помогите получить права)","artist":"MORGENSHTERN","key":"morgenshtern--бременские-музыканты","artists":[{"n":"MORGENSHTERN","s":"morgenshtern","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/_9xA9FHG1DI/mqdefault.jpg","url":"https://www.youtube.com/watch?v=_9xA9FHG1DI","change":0,"peak":2,"days":2,"video_id":"_9xA9FHG1DI","views":1717555,"views_day":288606,"song":"morgenshtern-бременские-музыканты","sl":true},
+{"rank":3,"title":"Ričijs Rū LAUKU SĒTĀ","artist":"Lauris Reiniks","key":"lauris-reiniks--ricijs-ru-lauku-seta","artists":[{"n":"Lauris Reiniks","s":"lauris-reiniks","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/qj4tR3zByeo/mqdefault.jpg","url":"https://www.youtube.com/watch?v=qj4tR3zByeo","change":0,"peak":2,"days":7,"video_id":"qj4tR3zByeo","views":69580,"views_day":1372,"song":"lauris-reiniks-ricijs-ru-lauku-seta","sl":true},
+{"rank":4,"title":"Movin' to the Sun (Soul Edition)","artist":"Simo Sent","key":"simo-sent--movin-to-the-sun","artists":[{"n":"Simo Sent","s":"simo-sent","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/WPgaEjyMYt4/mqdefault.jpg","url":"https://www.youtube.com/watch?v=WPgaEjyMYt4","change":0,"peak":4,"days":7,"video_id":"WPgaEjyMYt4","views":3151839,"views_day":33504,"song":"simo-sent-movin-to-the-sun","sl":false},
+{"rank":5,"title":"Moving To The Sun","artist":"quitjob","key":"quitjob--moving-to-the-sun","artists":[{"n":"quitjob","s":"quitjob","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/A4PhBXGtiAc/mqdefault.jpg","url":"https://www.youtube.com/watch?v=A4PhBXGtiAc","change":0,"peak":5,"days":5,"video_id":"A4PhBXGtiAc","views":2948311,"views_day":152473,"song":"quitjob-moving-to-the-sun","sl":false},
+{"rank":6,"title":"Šis ir mūsu laiks","artist":"MUSIQQ","key":"musiqq--sis-ir-musu-laiks","artists":[{"n":"MUSIQQ","s":"musiqq","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/3wI6d8sK4hs/mqdefault.jpg","url":"https://www.youtube.com/watch?v=3wI6d8sK4hs","change":0,"peak":6,"days":2,"video_id":"3wI6d8sK4hs","views":12643,"views_day":3467,"song":"musiqq-sis-ir-musu-laiks","sl":false},
+{"rank":7,"title":"Stereo Love (Sadrican 2026 Remix)","artist":"Edward Maya","key":"edward-maya--stereo-love","artists":[{"n":"Edward Maya","s":"edward-maya","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/s5IIWKZr_2w/mqdefault.jpg","url":"https://www.youtube.com/watch?v=s5IIWKZr_2w","change":0,"peak":6,"days":7,"video_id":"s5IIWKZr_2w","views":7864736,"views_day":150656,"song":"edward-maya-stereo-love","sl":false}
+]
+}

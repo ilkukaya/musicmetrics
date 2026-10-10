@@ -1,0 +1,16 @@
+{
+"id": "youtube_lu",
+"platform": "youtube",
+"type": "videos",
+"country": "lu",
+"updated": "2026-10-10T22:25:23.861Z",
+"total": 6,
+"items": [
+{"rank":1,"title":"Isaltino","artist":"Plutonio","key":"plutonio--isaltino","artists":[{"n":"Plutonio","s":"plutonio","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/hOyTh_cohzU/mqdefault.jpg","url":"https://www.youtube.com/watch?v=hOyTh_cohzU","change":0,"peak":1,"days":8,"video_id":"hOyTh_cohzU","views":1408516,"views_day":123872,"song":"plutonio-isaltino","sl":true},
+{"rank":2,"title":"CYBERTESLA","artist":"L2B","key":"l2b--cybertesla","artists":[{"n":"L2B","s":"l2b","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/Myk4p8OMiDk/mqdefault.jpg","url":"https://www.youtube.com/watch?v=Myk4p8OMiDk","change":0,"peak":2,"days":3,"video_id":"Myk4p8OMiDk","views":324454,"views_day":88653,"song":"l2b-cybertesla","sl":true},
+{"rank":3,"title":"BRACELET feat. La Rvfleuze","artist":"Ninho","key":"ninho--bracelet","artists":[{"n":"Ninho","s":"ninho","page":true,"loc":true},{"n":"La Rvfleuze","s":"la-rvfleuze","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/vxffNJmhIRo/mqdefault.jpg","url":"https://www.youtube.com/watch?v=vxffNJmhIRo","change":0,"peak":2,"days":4,"video_id":"vxffNJmhIRo","views":1401893,"views_day":361136,"song":"ninho-bracelet","sl":true},
+{"rank":4,"title":"WOKE","artist":"Sido","key":"sido--woke","artists":[{"n":"Sido","s":"sido","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/8Gj-lTSlPOg/mqdefault.jpg","url":"https://www.youtube.com/watch?v=8Gj-lTSlPOg","change":0,"peak":1,"days":13,"video_id":"8Gj-lTSlPOg","views":1695114,"views_day":13574,"song":"sido-woke","sl":false},
+{"rank":5,"title":"Saifond Welaylan Feat Ak ( Clip Officiel By Mintigui Prod","artist":"SAIFOND","key":"saifond--saifond-welaylan","artists":[{"n":"SAIFOND","s":"saifond","page":true,"loc":false},{"n":"Ak ( Clip Officiel By Mintigui Prod","s":"ak-clip-officiel-by-mintigui-prod","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/6M8MfRdGJc0/mqdefault.jpg","url":"https://www.youtube.com/watch?v=6M8MfRdGJc0","change":0,"peak":2,"days":13,"video_id":"6M8MfRdGJc0","views":2694766,"views_day":42142,"song":"saifond-saifond-welaylan","sl":false},
+{"rank":6,"title":"Saifond Kali Feat Djelykaba Bintou (clip Officiel By Mintigui Prod","artist":"SAIFOND","key":"saifond--saifond-kali","artists":[{"n":"SAIFOND","s":"saifond","page":true,"loc":false},{"n":"Djelykaba Bintou (clip Officiel By Mintigui Prod","s":"djelykaba-bintou-clip-officiel-by-mintigui-prod","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/la5oNC_DbQ8/mqdefault.jpg","url":"https://www.youtube.com/watch?v=la5oNC_DbQ8","change":0,"peak":3,"days":13,"video_id":"la5oNC_DbQ8","views":6234658,"views_day":98048,"song":"saifond-saifond-kali","sl":false}
+]
+}

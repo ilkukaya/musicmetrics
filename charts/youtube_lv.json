@@ -1,0 +1,15 @@
+{
+"id": "youtube_lv",
+"platform": "youtube",
+"type": "videos",
+"country": "lv",
+"updated": "2026-10-10T22:25:23.777Z",
+"total": 5,
+"items": [
+{"rank":1,"title":"Украсть тебя","artist":"МАЯК X","key":"маяк-x--украсть-тебя","artists":[{"n":"МАЯК X","s":"маяк-x","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/fplLSQrxGak/mqdefault.jpg","url":"https://www.youtube.com/watch?v=fplLSQrxGak","change":0,"peak":1,"days":3,"video_id":"fplLSQrxGak","views":205335,"views_day":66401,"song":"маяк-x-украсть-тебя","sl":true},
+{"rank":2,"title":"Un pirms mēs aizmigām","artist":"Miks Galvanovskis","key":"miks-galvanovskis--un-pirms-mes-aizmigam","artists":[{"n":"Miks Galvanovskis","s":"miks-galvanovskis","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/tPzROjp0nLQ/mqdefault.jpg","url":"https://www.youtube.com/watch?v=tPzROjp0nLQ","change":0,"peak":2,"days":2,"video_id":"tPzROjp0nLQ","views":10535,"views_day":4022,"song":"miks-galvanovskis-un-pirms-mes-aizmigam","sl":true},
+{"rank":3,"title":"Movin' to the Sun (Soul Edition)","artist":"Simo Sent","key":"simo-sent--movin-to-the-sun","artists":[{"n":"Simo Sent","s":"simo-sent","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/WPgaEjyMYt4/mqdefault.jpg","url":"https://www.youtube.com/watch?v=WPgaEjyMYt4","change":0,"peak":1,"days":13,"video_id":"WPgaEjyMYt4","views":3334918,"views_day":24552,"song":"simo-sent-movin-to-the-sun","sl":true},
+{"rank":4,"title":"Moving To The Sun","artist":"quitjob","key":"quitjob--moving-to-the-sun","artists":[{"n":"quitjob","s":"quitjob","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/A4PhBXGtiAc/mqdefault.jpg","url":"https://www.youtube.com/watch?v=A4PhBXGtiAc","change":0,"peak":2,"days":11,"video_id":"A4PhBXGtiAc","views":3684263,"views_day":35740,"song":"quitjob-moving-to-the-sun","sl":false},
+{"rank":5,"title":"Stereo Love (Sadrican 2026 Remix)","artist":"Edward Maya","key":"edward-maya--stereo-love","artists":[{"n":"Edward Maya","s":"edward-maya","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/s5IIWKZr_2w/mqdefault.jpg","url":"https://www.youtube.com/watch?v=s5IIWKZr_2w","change":0,"peak":4,"days":13,"video_id":"s5IIWKZr_2w","views":8501168,"views_day":61411,"song":"edward-maya-stereo-love","sl":false}
+]
+}

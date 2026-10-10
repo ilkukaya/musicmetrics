@@ -1,0 +1,11 @@
+{
+"id": "deezer_ru",
+"platform": "deezer",
+"type": "songs",
+"country": "ru",
+"updated": "2026-10-10T22:31:22.712Z",
+"total": 1,
+"items": [
+{"rank":1,"title":"Dorogoi Dlinnoyu (Дорогой длинною)","artist":"Михаил Шуфутинский (Mikhail Shufutinsky)","key":"михаил-шуфутинскии-mikhail-shufutinsky--dorogoi-dlinnoyu","artists":[{"n":"Михаил Шуфутинский (Mikhail Shufutinsky)","s":"михаил-шуфутинскии-mikhail-shufutinsky","page":true,"loc":true}],"image":"https://cdn-images.dzcdn.net/images/cover/65e88291293169e75186aa78d6d2d2ae/250x250-000000-80-0-0.jpg","url":"https://www.deezer.com/track/11429924","change":0,"peak":1,"days":4,"album":"Подмосковные вечера (Podmoskovnye Vechera)","deezer_id":11429924,"image_large":"https://cdn-images.dzcdn.net/images/cover/65e88291293169e75186aa78d6d2d2ae/1000x1000-000000-80-0-0.jpg","song":"михаил-шуфутинскии-mikhail-shufutinsky-dorogoi-dlinnoyu","sl":true}
+]
+}

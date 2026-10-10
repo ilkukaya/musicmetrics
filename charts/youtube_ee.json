@@ -1,0 +1,14 @@
+{
+"id": "youtube_ee",
+"platform": "youtube",
+"type": "videos",
+"country": "ee",
+"updated": "2026-10-10T22:25:23.824Z",
+"total": 4,
+"items": [
+{"rank":1,"title":"rongikupee","artist":"säm","key":"sam--rongikupee","artists":[{"n":"säm","s":"sam","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/HnlmrEnxOOU/mqdefault.jpg","url":"https://www.youtube.com/watch?v=HnlmrEnxOOU","change":0,"peak":1,"days":3,"video_id":"HnlmrEnxOOU","views":25595,"views_day":8100,"song":"sam-rongikupee","sl":true},
+{"rank":2,"title":"Ma Pole Siin Sind Näin`d","artist":"RESPEKT","key":"respekt--ma-pole-siin-sind-nain-d","artists":[{"n":"RESPEKT","s":"respekt","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/9Y5uBxXSFAY/mqdefault.jpg","url":"https://www.youtube.com/watch?v=9Y5uBxXSFAY","change":0,"peak":2,"days":4,"video_id":"9Y5uBxXSFAY","views":20004,"views_day":3156,"song":"respekt-ma-pole-siin-sind-nain-d","sl":true},
+{"rank":3,"title":"Movin' to the Sun (Soul Edition)","artist":"Simo Sent","key":"simo-sent--movin-to-the-sun","artists":[{"n":"Simo Sent","s":"simo-sent","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/WPgaEjyMYt4/mqdefault.jpg","url":"https://www.youtube.com/watch?v=WPgaEjyMYt4","change":1,"peak":3,"days":13,"video_id":"WPgaEjyMYt4","views":3334918,"views_day":24552,"song":"simo-sent-movin-to-the-sun","sl":true},
+{"rank":4,"title":"Stereo Love (Sadrican 2026 Remix)","artist":"Edward Maya","key":"edward-maya--stereo-love","artists":[{"n":"Edward Maya","s":"edward-maya","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/s5IIWKZr_2w/mqdefault.jpg","url":"https://www.youtube.com/watch?v=s5IIWKZr_2w","change":1,"peak":4,"days":13,"video_id":"s5IIWKZr_2w","views":8501168,"views_day":61411,"song":"edward-maya-stereo-love","sl":false}
+]
+}

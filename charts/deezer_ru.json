@@ -1,0 +1,12 @@
+{
+"id": "deezer_ru",
+"platform": "deezer",
+"type": "songs",
+"country": "ru",
+"updated": "2026-10-16T22:08:37.103Z",
+"total": 2,
+"items": [
+{"rank":1,"title":"АКНЕ","artist":"Пошлая Молли","key":"пошлая-молли--акне","artists":[{"n":"Пошлая Молли","s":"пошлая-молли","page":true,"loc":true}],"image":"https://cdn-images.dzcdn.net/images/cover/cb971f9342813e8abb989ace5641bbc4/250x250-000000-80-0-0.jpg","url":"https://www.deezer.com/track/3711201392","change":0,"peak":1,"days":2,"album":"АКНЕ","deezer_id":3711201392,"explicit":true,"image_large":"https://cdn-images.dzcdn.net/images/cover/cb971f9342813e8abb989ace5641bbc4/1000x1000-000000-80-0-0.jpg","song":"пошлая-молли-акне","sl":true},
+{"rank":2,"title":"утекай","artist":"тёмный принц","key":"темныи-принц--утекаи","artists":[{"n":"тёмный принц","s":"темныи-принц","page":true,"loc":true}],"image":"https://cdn-images.dzcdn.net/images/cover/0bc11029eee833811234e697d3554635/250x250-000000-80-0-0.jpg","url":"https://www.deezer.com/track/4145181512","change":0,"peak":2,"days":2,"album":"MILITANTUM","deezer_id":4145181512,"explicit":true,"image_large":"https://cdn-images.dzcdn.net/images/cover/0bc11029eee833811234e697d3554635/1000x1000-000000-80-0-0.jpg","song":"темныи-принц-утекаи","sl":true}
+]
+}

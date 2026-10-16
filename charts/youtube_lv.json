@@ -1,0 +1,16 @@
+{
+"id": "youtube_lv",
+"platform": "youtube",
+"type": "videos",
+"country": "lv",
+"updated": "2026-10-16T22:01:45.635Z",
+"total": 6,
+"items": [
+{"rank":1,"title":"Украсть тебя","artist":"МАЯК X","key":"маяк-x--украсть-тебя","artists":[{"n":"МАЯК X","s":"маяк-x","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/fplLSQrxGak/mqdefault.jpg","url":"https://www.youtube.com/watch?v=fplLSQrxGak","change":0,"peak":1,"days":8,"video_id":"fplLSQrxGak","views":581883,"views_day":62547,"song":"маяк-x-украсть-тебя","sl":true},
+{"rank":2,"title":"милый ублюдок (Премьера Клипа 2026)","artist":"Егор Крид","key":"егор-крид--милыи-ублюдок","artists":[{"n":"Егор Крид","s":"егор-крид","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/0prn3kYrfyU/mqdefault.jpg","url":"https://www.youtube.com/watch?v=0prn3kYrfyU","change":"new","peak":2,"days":1,"video_id":"0prn3kYrfyU","views":198218,"song":"егор-крид-милыи-ублюдок","sl":true},
+{"rank":3,"title":"Musiqq @ Xiaomi Arēna 2026","artist":"MUSIQQ","key":"musiqq--musiqq-xiaomi-arena-2026","artists":[{"n":"MUSIQQ","s":"musiqq","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/fb4VfpYycXI/mqdefault.jpg","url":"https://www.youtube.com/watch?v=fb4VfpYycXI","change":"new","peak":3,"days":1,"video_id":"fb4VfpYycXI","views":7634,"song":"musiqq-musiqq-xiaomi-arena-2026","sl":true},
+{"rank":4,"title":"Kazino","artist":"Singapūras Satīns","key":"singapuras-satins--kazino","artists":[{"n":"Singapūras Satīns","s":"singapuras-satins","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/EHX-HIS-7yw/mqdefault.jpg","url":"https://www.youtube.com/watch?v=EHX-HIS-7yw","change":-1,"peak":3,"days":2,"video_id":"EHX-HIS-7yw","views":6781,"views_day":1821,"song":"singapuras-satins-kazino","sl":false},
+{"rank":5,"title":"Movin' to the Sun (Soul Edition)","artist":"Simo Sent","key":"simo-sent--movin-to-the-sun","artists":[{"n":"Simo Sent","s":"simo-sent","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/WPgaEjyMYt4/mqdefault.jpg","url":"https://www.youtube.com/watch?v=WPgaEjyMYt4","change":-1,"peak":1,"days":18,"video_id":"WPgaEjyMYt4","views":3479911,"views_day":29378,"song":"simo-sent-movin-to-the-sun","sl":true},
+{"rank":6,"title":"Зажигалки (Премьера клипа, 2026)","artist":"Егор Крид","key":"егор-крид--зажигалки","artists":[{"n":"Егор Крид","s":"егор-крид","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/grcOsDJC_No/mqdefault.jpg","url":"https://www.youtube.com/watch?v=grcOsDJC_No","change":-1,"peak":4,"days":4,"video_id":"grcOsDJC_No","views":374290,"views_day":67409,"song":"егор-крид-зажигалки","sl":false}
+]
+}

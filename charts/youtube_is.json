@@ -1,0 +1,13 @@
+{
+"id": "youtube_is",
+"platform": "youtube",
+"type": "videos",
+"country": "is",
+"updated": "2026-10-16T22:01:45.780Z",
+"total": 3,
+"items": [
+{"rank":1,"title":"Дайте дури (ultra slowed)","artist":"sayane","key":"sayane--даите-дури","artists":[{"n":"sayane","s":"sayane","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/Uj0ruvD10Dg/mqdefault.jpg","url":"https://www.youtube.com/watch?v=Uj0ruvD10Dg","change":0,"peak":1,"days":2,"video_id":"Uj0ruvD10Dg","views":1370681,"views_day":30928,"song":"sayane-даите-дури","sl":true},
+{"rank":2,"title":"expectations (feat. Chappell Roan)","artist":"Olivia Rodrigo","key":"olivia-rodrigo--expectations","artists":[{"n":"Olivia Rodrigo","s":"olivia-rodrigo","page":true,"loc":true},{"n":"Chappell Roan","s":"chappell-roan","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/gsZauX8gwxo/mqdefault.jpg","url":"https://www.youtube.com/watch?v=gsZauX8gwxo","change":"new","peak":2,"days":1,"video_id":"gsZauX8gwxo","views":6037538,"song":"olivia-rodrigo-expectations","sl":true},
+{"rank":3,"title":"Housewife","artist":"Tate McRae","key":"tate-mcrae--housewife","artists":[{"n":"Tate McRae","s":"tate-mcrae","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/DPEodkHzH-s/mqdefault.jpg","url":"https://www.youtube.com/watch?v=DPEodkHzH-s","change":"new","peak":3,"days":1,"video_id":"DPEodkHzH-s","views":2586443,"song":"tate-mcrae-housewife","sl":true}
+]
+}

@@ -1,0 +1,16 @@
+{
+"id": "youtube_lu",
+"platform": "youtube",
+"type": "videos",
+"country": "lu",
+"updated": "2026-10-16T22:01:45.820Z",
+"total": 6,
+"items": [
+{"rank":1,"title":"ERRO & ACERTO","artist":"Loose Jr","key":"loose-jr--erro-and-acerto","artists":[{"n":"Loose Jr","s":"loose-jr","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/U12_DEi0jO0/mqdefault.jpg","url":"https://www.youtube.com/watch?v=U12_DEi0jO0","change":"new","peak":1,"days":1,"video_id":"U12_DEi0jO0","views":56490,"song":"loose-jr-erro-and-acerto","sl":true},
+{"rank":2,"title":"Isaltino","artist":"Plutonio","key":"plutonio--isaltino","artists":[{"n":"Plutonio","s":"plutonio","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/hOyTh_cohzU/mqdefault.jpg","url":"https://www.youtube.com/watch?v=hOyTh_cohzU","change":-1,"peak":1,"days":13,"video_id":"hOyTh_cohzU","views":1976078,"views_day":86313,"song":"plutonio-isaltino","sl":true},
+{"rank":3,"title":"CYBERTESLA","artist":"L2B","key":"l2b--cybertesla","artists":[{"n":"L2B","s":"l2b","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/Myk4p8OMiDk/mqdefault.jpg","url":"https://www.youtube.com/watch?v=Myk4p8OMiDk","change":-1,"peak":2,"days":8,"video_id":"Myk4p8OMiDk","views":696775,"views_day":57499,"song":"l2b-cybertesla","sl":true},
+{"rank":4,"title":"BRACELET feat. La Rvfleuze","artist":"Ninho","key":"ninho--bracelet","artists":[{"n":"Ninho","s":"ninho","page":true,"loc":true},{"n":"La Rvfleuze","s":"la-rvfleuze","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/vxffNJmhIRo/mqdefault.jpg","url":"https://www.youtube.com/watch?v=vxffNJmhIRo","change":-1,"peak":2,"days":9,"video_id":"vxffNJmhIRo","views":2561445,"views_day":73347,"song":"ninho-bracelet","sl":true},
+{"rank":5,"title":"WOKE","artist":"Sido","key":"sido--woke","artists":[{"n":"Sido","s":"sido","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/8Gj-lTSlPOg/mqdefault.jpg","url":"https://www.youtube.com/watch?v=8Gj-lTSlPOg","change":-1,"peak":1,"days":18,"video_id":"8Gj-lTSlPOg","views":1762221,"views_day":12223,"song":"sido-woke","sl":false},
+{"rank":6,"title":"Saifond Welaylan Feat Ak ( Clip Officiel By Mintigui Prod","artist":"SAIFOND","key":"saifond--saifond-welaylan","artists":[{"n":"SAIFOND","s":"saifond","page":true,"loc":true},{"n":"Ak ( Clip Officiel By Mintigui Prod","s":"ak-clip-officiel-by-mintigui-prod","page":true,"loc":false}],"image":"https://i.ytimg.com/vi/6M8MfRdGJc0/mqdefault.jpg","url":"https://www.youtube.com/watch?v=6M8MfRdGJc0","change":-1,"peak":2,"days":18,"video_id":"6M8MfRdGJc0","views":2907632,"views_day":33384,"song":"saifond-saifond-welaylan","sl":false}
+]
+}

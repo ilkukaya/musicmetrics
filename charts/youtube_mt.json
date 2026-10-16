@@ -1,0 +1,17 @@
+{
+"id": "youtube_mt",
+"platform": "youtube",
+"type": "videos",
+"country": "mt",
+"updated": "2026-10-16T22:01:46.524Z",
+"total": 7,
+"items": [
+{"rank":1,"title":"expectations (feat. Chappell Roan)","artist":"Olivia Rodrigo","key":"olivia-rodrigo--expectations","artists":[{"n":"Olivia Rodrigo","s":"olivia-rodrigo","page":true,"loc":true},{"n":"Chappell Roan","s":"chappell-roan","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/gsZauX8gwxo/mqdefault.jpg","url":"https://www.youtube.com/watch?v=gsZauX8gwxo","change":"new","peak":1,"days":1,"video_id":"gsZauX8gwxo","views":6037538,"song":"olivia-rodrigo-expectations","sl":true},
+{"rank":2,"title":"KAALI HOODIE SIDHU MOOSE WALA FT BOHEMIA","artist":"Sidhu Moose Wala","key":"sidhu-moose-wala--kaali-hoodie-sidhu-moose-wala","artists":[{"n":"Sidhu Moose Wala","s":"sidhu-moose-wala","page":true,"loc":true},{"n":"BOHEMIA","s":"bohemia","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/-zvixJnZuUU/mqdefault.jpg","url":"https://www.youtube.com/watch?v=-zvixJnZuUU","change":"new","peak":2,"days":1,"video_id":"-zvixJnZuUU","views":8865158,"song":"sidhu-moose-wala-kaali-hoodie-sidhu-moose-wala","sl":true},
+{"rank":3,"title":"Housewife","artist":"Tate McRae","key":"tate-mcrae--housewife","artists":[{"n":"Tate McRae","s":"tate-mcrae","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/DPEodkHzH-s/mqdefault.jpg","url":"https://www.youtube.com/watch?v=DPEodkHzH-s","change":"new","peak":3,"days":1,"video_id":"DPEodkHzH-s","views":2586443,"song":"tate-mcrae-housewife","sl":true},
+{"rank":4,"title":"TRALALA","artist":"manifest","key":"manifest--tralala","artists":[{"n":"manifest","s":"manifest","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/0rW7Fbm4S7g/mqdefault.jpg","url":"https://www.youtube.com/watch?v=0rW7Fbm4S7g","change":-3,"peak":1,"days":8,"video_id":"0rW7Fbm4S7g","views":26203961,"views_day":1805937,"song":"manifest-tralala","sl":true},
+{"rank":5,"title":"GHOSTFACE KILLAH","artist":"Sidhu Moose Wala","key":"sidhu-moose-wala--ghostface-killah","artists":[{"n":"Sidhu Moose Wala","s":"sidhu-moose-wala","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/Pq7UxbWeRU0/mqdefault.jpg","url":"https://www.youtube.com/watch?v=Pq7UxbWeRU0","change":-3,"peak":1,"days":15,"video_id":"Pq7UxbWeRU0","views":28599146,"views_day":407208,"song":"sidhu-moose-wala-ghostface-killah","sl":false},
+{"rank":6,"title":"Ashke Karan Aujla","artist":"Karan Aujla","key":"karan-aujla--ashke-karan-aujla","artists":[{"n":"Karan Aujla","s":"karan-aujla","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/Pd1yGW_g2T8/mqdefault.jpg","url":"https://www.youtube.com/watch?v=Pd1yGW_g2T8","change":-3,"peak":2,"days":15,"video_id":"Pd1yGW_g2T8","views":33551554,"views_day":971590,"song":"karan-aujla-ashke-karan-aujla","sl":true},
+{"rank":7,"title":"Casa Tupka Anthemo","artist":"Yo Yo Honey Singh","key":"yo-yo-honey-singh--casa-tupka-anthemo","artists":[{"n":"Yo Yo Honey Singh","s":"yo-yo-honey-singh","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/vRjaGgDsWSo/mqdefault.jpg","url":"https://www.youtube.com/watch?v=vRjaGgDsWSo","change":-3,"peak":3,"days":15,"video_id":"vRjaGgDsWSo","views":130008804,"views_day":3507179,"song":"yo-yo-honey-singh-casa-tupka-anthemo","sl":true}
+]
+}

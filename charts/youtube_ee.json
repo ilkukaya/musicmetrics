@@ -1,0 +1,12 @@
+{
+"id": "youtube_ee",
+"platform": "youtube",
+"type": "videos",
+"country": "ee",
+"updated": "2026-10-16T22:01:45.699Z",
+"total": 2,
+"items": [
+{"rank":1,"title":"rongikupee","artist":"säm","key":"sam--rongikupee","artists":[{"n":"säm","s":"sam","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/HnlmrEnxOOU/mqdefault.jpg","url":"https://www.youtube.com/watch?v=HnlmrEnxOOU","change":0,"peak":1,"days":8,"video_id":"HnlmrEnxOOU","views":47990,"views_day":2638,"song":"sam-rongikupee","sl":true},
+{"rank":2,"title":"Movin' to the Sun (Soul Edition)","artist":"Simo Sent","key":"simo-sent--movin-to-the-sun","artists":[{"n":"Simo Sent","s":"simo-sent","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/WPgaEjyMYt4/mqdefault.jpg","url":"https://www.youtube.com/watch?v=WPgaEjyMYt4","change":0,"peak":2,"days":18,"video_id":"WPgaEjyMYt4","views":3479911,"views_day":29378,"song":"simo-sent-movin-to-the-sun","sl":true}
+]
+}

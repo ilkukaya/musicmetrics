@@ -1,0 +1,17 @@
+{
+"id": "youtube_lu",
+"platform": "youtube",
+"type": "videos",
+"country": "lu",
+"updated": "2026-10-23T22:00:47.609Z",
+"total": 7,
+"items": [
+{"rank":1,"title":"ERRO & ACERTO","artist":"Loose Jr","key":"loose-jr--erro-and-acerto","artists":[{"n":"Loose Jr","s":"loose-jr","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/U12_DEi0jO0/mqdefault.jpg","url":"https://www.youtube.com/watch?v=U12_DEi0jO0","change":0,"peak":1,"days":8,"video_id":"U12_DEi0jO0","views":1009383,"views_day":107035,"song":"loose-jr-erro-and-acerto","sl":true},
+{"rank":2,"title":"Précipices & Professionnels feat. SDM","artist":"SCH","key":"sch--precipices-and-professionnels","artists":[{"n":"SCH","s":"sch","page":true,"loc":true},{"n":"SDM","s":"sdm","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/URzVbs2vgX4/mqdefault.jpg","url":"https://www.youtube.com/watch?v=URzVbs2vgX4","change":0,"peak":2,"days":2,"video_id":"URzVbs2vgX4","views":805597,"views_day":491130,"song":"sch-precipices-and-professionnels","sl":true},
+{"rank":3,"title":"Isaltino","artist":"Plutonio","key":"plutonio--isaltino","artists":[{"n":"Plutonio","s":"plutonio","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/hOyTh_cohzU/mqdefault.jpg","url":"https://www.youtube.com/watch?v=hOyTh_cohzU","change":0,"peak":1,"days":20,"video_id":"hOyTh_cohzU","views":2476992,"views_day":64948,"song":"plutonio-isaltino","sl":true},
+{"rank":4,"title":"ASSALAMUALEIKUM","artist":"SAMRA x CAPITAL BRA","key":"samra--assalamualeikum","artists":[{"n":"SAMRA","s":"samra","page":true,"loc":true},{"n":"CAPITAL BRA","s":"capital-bra","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/-hYBFSvjlFw/mqdefault.jpg","url":"https://www.youtube.com/watch?v=-hYBFSvjlFw","change":0,"peak":4,"days":2,"video_id":"-hYBFSvjlFw","views":314125,"views_day":231394,"song":"samra-assalamualeikum","sl":true},
+{"rank":5,"title":"CYBERTESLA","artist":"L2B","key":"l2b--cybertesla","artists":[{"n":"L2B","s":"l2b","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/Myk4p8OMiDk/mqdefault.jpg","url":"https://www.youtube.com/watch?v=Myk4p8OMiDk","change":0,"peak":2,"days":15,"video_id":"Myk4p8OMiDk","views":1075576,"views_day":59222,"song":"l2b-cybertesla","sl":true},
+{"rank":6,"title":"BRACELET feat. La Rvfleuze","artist":"Ninho","key":"ninho--bracelet","artists":[{"n":"Ninho","s":"ninho","page":true,"loc":true},{"n":"La Rvfleuze","s":"la-rvfleuze","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/vxffNJmhIRo/mqdefault.jpg","url":"https://www.youtube.com/watch?v=vxffNJmhIRo","change":0,"peak":2,"days":16,"video_id":"vxffNJmhIRo","views":2924012,"views_day":51467,"song":"ninho-bracelet","sl":true},
+{"rank":7,"title":"WOKE","artist":"Sido","key":"sido--woke","artists":[{"n":"Sido","s":"sido","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/8Gj-lTSlPOg/mqdefault.jpg","url":"https://www.youtube.com/watch?v=8Gj-lTSlPOg","change":0,"peak":1,"days":25,"video_id":"8Gj-lTSlPOg","views":1829496,"views_day":10219,"song":"sido-woke","sl":false}
+]
+}

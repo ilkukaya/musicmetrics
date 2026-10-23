@@ -1,0 +1,12 @@
+{
+"id": "youtube_is",
+"platform": "youtube",
+"type": "videos",
+"country": "is",
+"updated": "2026-10-23T22:00:47.540Z",
+"total": 2,
+"items": [
+{"rank":1,"title":"expectations (feat. Chappell Roan)","artist":"Olivia Rodrigo","key":"olivia-rodrigo--expectations","artists":[{"n":"Olivia Rodrigo","s":"olivia-rodrigo","page":true,"loc":true},{"n":"Chappell Roan","s":"chappell-roan","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/gsZauX8gwxo/mqdefault.jpg","url":"https://www.youtube.com/watch?v=gsZauX8gwxo","change":0,"peak":1,"days":8,"video_id":"gsZauX8gwxo","views":19896606,"views_day":858120,"song":"olivia-rodrigo-expectations","sl":true},
+{"rank":2,"title":"Housewife","artist":"Tate McRae","key":"tate-mcrae--housewife","artists":[{"n":"Tate McRae","s":"tate-mcrae","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/DPEodkHzH-s/mqdefault.jpg","url":"https://www.youtube.com/watch?v=DPEodkHzH-s","change":0,"peak":2,"days":8,"video_id":"DPEodkHzH-s","views":12882081,"views_day":1186722,"song":"tate-mcrae-housewife","sl":true}
+]
+}

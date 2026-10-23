@@ -1,0 +1,16 @@
+{
+"id": "youtube_lv",
+"platform": "youtube",
+"type": "videos",
+"country": "lv",
+"updated": "2026-10-23T22:00:47.536Z",
+"total": 6,
+"items": [
+{"rank":1,"title":"Украсть тебя","artist":"МАЯК X","key":"маяк-x--украсть-тебя","artists":[{"n":"МАЯК X","s":"маяк-x","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/fplLSQrxGak/mqdefault.jpg","url":"https://www.youtube.com/watch?v=fplLSQrxGak","change":0,"peak":1,"days":15,"video_id":"fplLSQrxGak","views":1073129,"views_day":92437,"song":"маяк-x-украсть-тебя","sl":true},
+{"rank":2,"title":"Kingdom Of Shadows (Original Mix)","artist":"Mariani","key":"mariani--kingdom-of-shadows","artists":[{"n":"Mariani","s":"mariani","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/04gP8rB6kjA/mqdefault.jpg","url":"https://www.youtube.com/watch?v=04gP8rB6kjA","change":"new","peak":2,"days":1,"video_id":"04gP8rB6kjA","views":1166137,"views_day":411467,"song":"mariani-kingdom-of-shadows","sl":true},
+{"rank":3,"title":"Say It Right (Ömer Said Remix)","artist":"Nelly Furtado","key":"nelly-furtado--say-it-right","artists":[{"n":"Nelly Furtado","s":"nelly-furtado","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/oJHFakG4Oe4/mqdefault.jpg","url":"https://www.youtube.com/watch?v=oJHFakG4Oe4","change":"new","peak":3,"days":1,"video_id":"oJHFakG4Oe4","views":2048562,"views_day":383108,"song":"nelly-furtado-say-it-right","sl":true},
+{"rank":4,"title":"Молчи","artist":"Miyagi & Zivert","key":"miyagi--молчи","artists":[{"n":"Miyagi","s":"miyagi","page":true,"loc":true},{"n":"Zivert","s":"zivert","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/KwSixuWd6Ys/mqdefault.jpg","url":"https://www.youtube.com/watch?v=KwSixuWd6Ys","change":"new","peak":4,"days":1,"video_id":"KwSixuWd6Ys","views":724324,"views_day":125259,"song":"miyagi-молчи","sl":true},
+{"rank":5,"title":"милый ублюдок (Премьера Клипа 2026)","artist":"Егор Крид","key":"егор-крид--милыи-ублюдок","artists":[{"n":"Егор Крид","s":"егор-крид","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/0prn3kYrfyU/mqdefault.jpg","url":"https://www.youtube.com/watch?v=0prn3kYrfyU","change":-2,"peak":2,"days":8,"video_id":"0prn3kYrfyU","views":596930,"views_day":56501,"song":"егор-крид-милыи-ублюдок","sl":true},
+{"rank":6,"title":"Зажигалки (Премьера клипа, 2026)","artist":"Егор Крид","key":"егор-крид--зажигалки","artists":[{"n":"Егор Крид","s":"егор-крид","page":true,"loc":true}],"image":"https://i.ytimg.com/vi/grcOsDJC_No/mqdefault.jpg","url":"https://www.youtube.com/watch?v=grcOsDJC_No","change":-2,"peak":4,"days":11,"video_id":"grcOsDJC_No","views":493253,"views_day":8583,"song":"егор-крид-зажигалки","sl":false}
+]
+}
